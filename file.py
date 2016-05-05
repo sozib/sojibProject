@@ -1,2 +1,2 @@
 print "hello world"
- ojsdoaf
+ print "eror is fixed"
