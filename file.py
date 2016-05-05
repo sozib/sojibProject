@@ -1,2 +1,2 @@
 print "hello world"
- print "eror is fixed"
+print "eror is fixed"
